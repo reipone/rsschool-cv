@@ -3,7 +3,7 @@
 * E-mail : indre.reipone@gmail.com
 * Phone : +370 616 36996
 ## Summary
-I am a self-taught front-end developer.
+I am a self-taught front-end developer. My goal is to fully switch my career path to web development.
 ## Skills
 * CSS/HTML
 * JAVASCRIPT
