@@ -14,8 +14,6 @@ I am a self-taught front-end developer. My goal is to fully switch my career pat
 * Business Communication & Marketing Master degree at Paris Nord University
 * Responsive Web Design Certificate from [FreeCodeCamp](https://www.freecodecamp.org/)
 ## Languages
-Language | Level
--------- | -----
-Lithuanian | Native speaker
-English | C1
-French | C1
+1. Lithuanian Native speaker
+2. English C1
+3. French C1
